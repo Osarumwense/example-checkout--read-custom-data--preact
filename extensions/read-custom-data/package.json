@@ -1,0 +1,10 @@
+{
+  "name": "read-custom-data",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "preact": "^10.10.x",
+    "@shopify/ui-extensions": "~2025.10.0-rc"
+  }
+}
